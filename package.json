@@ -1,0 +1,12 @@
+{
+  "name": "dev-express.js-codespaces-base-app-1",
+  "version": "0.0.1",
+  "description": "Es una aplicacaciòn sencilla que no està pesnada para usarse como módulo en un paquete",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1"
+}
